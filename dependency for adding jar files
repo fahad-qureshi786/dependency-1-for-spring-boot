@@ -1,0 +1,5 @@
+<dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-context</artifactId>
+        <version>4.2.4.RELEASE</version><!---  You may change version with time for new version --->
+</dependency>
